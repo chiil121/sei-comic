@@ -38,7 +38,7 @@
       }
     },
     "5": {
-      "title": "5",
+      "title": "Chapter 5",
       "volume": "",
       "last_updated": "1698827179",
       "groups": {
@@ -46,11 +46,43 @@
       }
     },
     "6": {
-      "title": "6",
+      "title": "Chapter 6",
       "volume": "",
       "last_updated": "1701422835",
       "groups": {
         "Mangasushi": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvcmVpbmNhcm5hdGVkLWNhcnJpZXJzLXN0cmF0ZWd5LWZvci1kaWZmZXJlbnQtd29ybGQuMjcyMDcvYzY=/"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1704101484",
+      "groups": {
+        "Mangasushi": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvcmVpbmNhcm5hdGVkLWNhcnJpZXJzLXN0cmF0ZWd5LWZvci1kaWZmZXJlbnQtd29ybGQuMjcyMDcvYzc=/"
+      }
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "",
+      "last_updated": "1706779947",
+      "groups": {
+        "Mangasushi": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvcmVpbmNhcm5hdGVkLWNhcnJpZXJzLXN0cmF0ZWd5LWZvci1kaWZmZXJlbnQtd29ybGQuMjcyMDcvYzg=/"
+      }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "",
+      "last_updated": "1714552400",
+      "groups": {
+        "LAYON": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvcmVpbmNhcm5hdGVkLWNhcnJpZXJzLXN0cmF0ZWd5LWZvci1kaWZmZXJlbnQtd29ybGQuMjcyMDcvYzk=/"
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "last_updated": "1714552443",
+      "groups": {
+        "LAYON": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvcmVpbmNhcm5hdGVkLWNhcnJpZXJzLXN0cmF0ZWd5LWZvci1kaWZmZXJlbnQtd29ybGQuMjcyMDcvYzEw/"
       }
     },
     "2.5": {
@@ -59,6 +91,14 @@
       "last_updated": "1740821081",
       "groups": {
         "Ecchilada": "/proxy/api/imgchest/chapter/na7k2jkm378"
+      }
+    },
+    "6.5": {
+      "title": "Short Story 6.5",
+      "volume": "",
+      "last_updated": "1740821425",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/pg732eo5o4r"
       }
     }
   }
