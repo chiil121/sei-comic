@@ -36,6 +36,14 @@
       "groups": {
         "Mangasushi": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvcmVpbmNhcm5hdGVkLWNhcnJpZXJzLXN0cmF0ZWd5LWZvci1kaWZmZXJlbnQtd29ybGQuMjcyMDcvYzQ=/"
       }
+    },
+    "2.5": {
+      "title": "Bonus Chapter 2.5",
+      "volume": "",
+      "last_updated": "1740821081",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/na7k2jkm378"
+      }
     }
   }
 }
