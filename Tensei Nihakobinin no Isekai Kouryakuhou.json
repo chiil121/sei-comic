@@ -141,6 +141,14 @@
         "Ecchilada": "/proxy/api/imgchest/chapter/o24ad56je4l"
       }
     },
+    "18": {
+      "title": "Chapter 18",
+      "volume": "",
+      "last_updated": "1740736113",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/dl7pr3naj4o"
+      }
+    },
     "2.5": {
       "title": "Bonus Chapter 2.5",
       "volume": "",
@@ -155,6 +163,14 @@
       "last_updated": "1740821425",
       "groups": {
         "Ecchilada": "/proxy/api/imgchest/chapter/pg732eo5o4r"
+      }
+    },
+    "12.5": {
+      "title": "Short Story 12.5",
+      "volume": "",
+      "last_updated": "1740815220",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/a846q8o52yx"
       }
     }
   }
