@@ -149,6 +149,86 @@
         "Ecchilada": "/proxy/api/imgchest/chapter/dl7pr3naj4o"
       }
     },
+    "19": {
+      "title": "Chapter 19",
+      "volume": "",
+      "last_updated": "1743411145",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/xny8ra6ew4b"
+      }
+    },
+    "20": {
+      "title": "Chapter 20",
+      "volume": "",
+      "last_updated": "1743497583",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/md7odmbblyp"
+      }
+    },
+    "21": {
+      "title": "Chapter 21",
+      "volume": "",
+      "last_updated": "1746089622",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/pg732eooo4r"
+      }
+    },
+    "22": {
+      "title": "Chapter 22",
+      "volume": "",
+      "last_updated": "1748760840",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/bp45jgoovy5"
+      }
+    },
+    "23": {
+      "title": "Chapter 23",
+      "volume": "",
+      "last_updated": "1751360075",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/pg732eoez4r"
+      }
+    },
+    "24": {
+      "title": "Chapter 24",
+      "volume": "",
+      "last_updated": "1756731300",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/9249m6k827n"
+      }
+    },
+    "25": {
+      "title": "Chapter 25",
+      "volume": "",
+      "last_updated": "1764496577",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/md7odmb2dyp"
+      }
+    },
+    "26": {
+      "title": "Chapter 26",
+      "volume": "",
+      "last_updated": "1767175018",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/5xy2xkowj4l"
+      }
+    },
+    "27": {
+      "title": "Chapter 27",
+      "volume": "",
+      "last_updated": "1774245420",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/6eyr3enpeyp"
+      }
+    },
+    "28": {
+      "title": "Chapter 28",
+      "volume": "",
+      "last_updated": "1776527880",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/ne7brandmy5"
+      }
+    },
     "2.5": {
       "title": "Bonus Chapter 2.5",
       "volume": "",
@@ -158,7 +238,7 @@
       }
     },
     "6.5": {
-      "title": "Short Story 6.5",
+      "title": "Short Story: Lunamilia",
       "volume": "",
       "last_updated": "1740821425",
       "groups": {
@@ -166,11 +246,19 @@
       }
     },
     "12.5": {
-      "title": "Short Story 12.5",
+      "title": "Short Story: Zofi",
       "volume": "",
       "last_updated": "1740815220",
       "groups": {
         "Ecchilada": "/proxy/api/imgchest/chapter/a846q8o52yx"
+      }
+    },
+    "24.5": {
+      "title": "Short Story: Anita",
+      "volume": "",
+      "last_updated": "1764496550",
+      "groups": {
+        "Ecchilada": "/proxy/api/imgchest/chapter/ne7bra6qgy5"
       }
     }
   }
